@@ -4,7 +4,7 @@
 
 🏆 Ranked 6th among [Kuberay](https://github.com/ray-project/kuberay) contributors with 22 PRs merged.
 
-✨ Recognized and elected as an official contributor/member in [flyteorg](https://github.com/flyteorg) with 21 PRs contributed.
+✨ Recognized and elected as an contributor/member in [flyteorg](https://github.com/flyteorg) with 21 PRs contributed.
 
 📌 Here are some samples of my contributions:
 
